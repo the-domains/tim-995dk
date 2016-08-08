@@ -1,15 +1,15 @@
-typography_spectrum: 0.8368635752703995
+typography_spectrum: 0.2295823902823031
 color:
-  brandStrength: 0.5490192510187626
-  lightness: 0.9027188352774829
-  saturation: 0.011627972824499011
-  rhythmicContrast: 0.8867241274565458
+  brandStrength: 0.24259566515684128
+  lightness: 0.856799513567239
+  saturation: 0.10339209786616266
+  rhythmicContrast: 0.1464009522460401
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 layout_spectrum: 0.3232728377915919
 name: Tim
 title: It only gets better
