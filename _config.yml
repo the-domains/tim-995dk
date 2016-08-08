@@ -1,4 +1,3 @@
-layout_spectrum: 0.3232728377915919
 typography_spectrum: 0.8368635752703995
 color:
   brandStrength: 0.5490192510187626
@@ -11,5 +10,7 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.3232728377915919
 name: Tim
 title: It only gets better
+description: Hardly Working
